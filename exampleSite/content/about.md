@@ -1,10 +1,11 @@
 ---
-title: "proclaiming Jesus Christ as Prophet, Priest, and King."
+title: "Proclaiming Jesus Christ as Prophet, Priest, and King."
 image: "images/about.jpg"
 description: "George W. Southwick"
 layout: "about"
 draft: false
 ---
+
 
 George was born as the third son to Frank Herbert and Ida May Southwick in Lakeland, Florida, December 1, 1918. His parents owned an orange grove farm and he had many happy hours playing as a youngster with his brothers, friends and pets. He also had a Nanny until he was four years old. The Southwick name was important in United States history, from the time of Lawrence and Cassandra Southwick, who brought about many of the religious freedoms in the United States because of the persecution they endured. Many other Southwick’s were involved in the founding of the United States. This heritage was very important to George and he always wanted his children to remember it.
 
