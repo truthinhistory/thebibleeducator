@@ -1,7 +1,7 @@
 ---
-title: "I am Emma, A content writer based in LDN, currently at Bookworm."
+title: "proclaiming Jesus Christ as Prophet, Priest, and King."
 image: "images/about.jpg"
-description: "this is meta description"
+description: "George W. Southwick"
 layout: "about"
 draft: false
 ---
